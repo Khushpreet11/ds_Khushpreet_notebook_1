@@ -21,4 +21,22 @@ We analyzed daily trading activity (**PnL** and **Volume**) against the **Fear &
 
 ## 🧪 Statistical Insight
 
-We applied the **Mann–Whitney U Test** to compare trader performance between *Fear* and
+We applied the **Mann–Whitney U Test** to compare trader performance between *Fear* and *Greed* days:  
+
+**U = 2095.000**, **p = 0.88327**  
+
+👉 The result shows **no statistically significant difference**, meaning sentiment alone may not dictate performance — though patterns suggest that *Greed phases* often coincide with higher optimism and trading activity.
+
+---
+
+## 🧭 Summary
+
+In essence, trader profitability and market sentiment appear **interlinked**, yet not strictly predictable.  
+
+While *Greed* phases often spark stronger trades, they can also invite risk — whereas *Fear* periods, though calmer, still see determined activity.  
+
+This blend of **emotion and action** paints a vivid picture of how **psychology drives the crypto markets**.
+
+---
+
+*Report prepared by Khushpreet Kaur Grewal — October 2025* ✨
